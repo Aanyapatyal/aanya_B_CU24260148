@@ -25,6 +25,3 @@
 | `24_largest_smallest_list.dart` | Q24: Find largest and smallest values in a list |
 | `25_student_result.dart` | Q25: Store student name and three marks; calculate total, percentage and pass/fail result |
 
-## Add these files to your GitHub repository
-
-Download and extract the ZIP, then copy the `Lab_Sheet_1_Dart_Programs` folder into your local clone of `aanya_B_CU24260148`. Commit and push from your own GitHub workflow (for example, using GitHub Desktop or the `git` command line). This package does not upload or push anything to GitHub.

@@ -1,20 +1,4 @@
 # Lab Sheet 1: Dart Console Programs
-
-This folder contains 25 independent, beginner-friendly Dart console programs. Each file has its own `main()` function and can be run separately. The programs use Dart's built-in `dart:io` library where keyboard input is needed.
-
-## Requirements and running a program
-
-1. Install the Dart SDK and make sure the `dart` command is available in your terminal. Flutter users can use the Dart SDK included with Flutter if its `bin` folder is on PATH.
-2. Open a terminal in this folder.
-3. Run one file at a time with `dart run 01_display_details.dart` (replace the filename with the program you want). For example: `dart run 25_student_result.dart`.
-4. When prompted, type the requested value(s) and press Enter. For two or more values on one line, separate them with spaces.
-
-Q1 has editable placeholders in the source; update your course, college and semester before running it. Q14 uses a clearly shown example grading scale (A: 90+, B: 80+, C: 70+, D: 60+, otherwise F), since no grading scale was specified. Q25 reports pass at an average of 40% or above.
-
-## Question mapping
-
-| File | Question |
-|---|---|
 | `01_display_details.dart` | Q1: Display name, course, college and semester (edit placeholders) |
 | `02_data_types.dart` | Q2: Declare and display int, double, String and bool values |
 | `03_var_final_const.dart` | Q3: Demonstrate var, final and const |
